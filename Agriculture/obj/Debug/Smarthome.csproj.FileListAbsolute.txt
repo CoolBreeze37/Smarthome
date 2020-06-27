@@ -1,0 +1,415 @@
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\add.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\delete.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\lightning.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\pencil.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\drive_add.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\drive_delete.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\zoom.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\lightning_delete.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\lightning_go.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\accept.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\cancel.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\connect.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\intelligentize.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\off.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\on.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\5.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\内通风.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\水帘.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\喷灌.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\外通风.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\内遮阳关.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\内遮阳开.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\天窗关.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\天窗开.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\外遮阳关.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Resources\外遮阳开.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Agriculture.exe.config
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Agriculture.exe
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Agriculture.pdb
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\AipSdk.dll
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Newtonsoft.Json.dll
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\AForge.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\AForge.Controls.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\AForge.Imaging.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\AForge.Math.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\AForge.Video.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\AipSdk.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\bin\Debug\Newtonsoft.Json.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Agriculture.ForgetPwd.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Agriculture.ForgetPwd2.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\BaiduAI.Form1.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Agriculture.Form2.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Agriculture.FormLogin.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Agriculture.FrmMain.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Agriculture.Properties.Resources.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Agriculture.Regist.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Agriculture.Regist2.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Agriculture.Select.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Smarthome.csproj.GenerateResource.cache
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Smarthome.csproj.CoreCompileInputs.cache
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Smarthome.csproj.CopyComplete
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Agriculture.exe
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Agriculture\Agriculture\obj\Debug\Agriculture.pdb
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\add.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\delete.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\lightning.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\pencil.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\drive_add.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\drive_delete.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\zoom.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\lightning_delete.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\lightning_go.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\accept.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\cancel.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\connect.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\intelligentize.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\off.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\on.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\5.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\内通风.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\水帘.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\喷灌.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\外通风.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\内遮阳关.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\内遮阳开.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\天窗关.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\天窗开.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\外遮阳关.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Resources\外遮阳开.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Agriculture.exe.config
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Agriculture.exe
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Agriculture.pdb
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\AipSdk.dll
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.dll
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\AForge.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\AForge.Controls.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\AForge.Imaging.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\AForge.Math.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\AForge.Video.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\AipSdk.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Smarthome.csprojAssemblyReference.cache
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Agriculture.ForgetPwd.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Agriculture.ForgetPwd2.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\BaiduAI.Form1.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Agriculture.Form2.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Agriculture.FormLogin.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Agriculture.FrmMain.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Agriculture.Properties.Resources.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Agriculture.Regist.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Agriculture.Regist2.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Agriculture.Select.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.GenerateResource.cache
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CoreCompileInputs.cache
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CopyComplete
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Agriculture.exe
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第三天\Smarthome\Agriculture\obj\Debug\Agriculture.pdb
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\add.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\delete.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\lightning.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\pencil.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\drive_add.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\drive_delete.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\zoom.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\lightning_delete.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\lightning_go.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\accept.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\cancel.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\connect.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\intelligentize.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\off.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\on.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\5.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\内通风.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\水帘.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\喷灌.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\外通风.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\内遮阳关.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\内遮阳开.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\天窗关.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\天窗开.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\外遮阳关.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Resources\外遮阳开.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Agriculture.exe.config
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Agriculture.exe
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Agriculture.pdb
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\AipSdk.dll
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.dll
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\AForge.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\AForge.Controls.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\AForge.Imaging.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\AForge.Math.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\AForge.Video.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\AipSdk.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Smarthome.csprojAssemblyReference.cache
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Agriculture.ForgetPwd.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Agriculture.ForgetPwd2.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\BaiduAI.Form1.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Agriculture.Form2.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Agriculture.FormLogin.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Agriculture.FrmMain.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Agriculture.Properties.Resources.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Agriculture.Regist.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Agriculture.Regist2.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Agriculture.Select.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.GenerateResource.cache
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CoreCompileInputs.cache
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CopyComplete
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Agriculture.exe
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Agriculture\obj\Debug\Agriculture.pdb
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\add.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\delete.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\lightning.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\pencil.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\drive_add.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\drive_delete.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\zoom.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\lightning_delete.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\lightning_go.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\accept.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\cancel.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\connect.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\intelligentize.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\off.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\on.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\5.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\内通风.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\水帘.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\喷灌.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\外通风.gif
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\内遮阳关.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\内遮阳开.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\天窗关.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\天窗开.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\外遮阳关.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\外遮阳开.png
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Agriculture.exe.config
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Agriculture.exe
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Agriculture.pdb
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\AipSdk.dll
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.dll
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\AForge.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\AForge.Controls.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\AForge.Imaging.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\AForge.Math.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\AForge.Video.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\AipSdk.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.xml
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.csprojAssemblyReference.cache
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Agriculture.ForgetPwd.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Agriculture.ForgetPwd2.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\BaiduAI.Form1.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Agriculture.Form2.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Agriculture.FormLogin.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Agriculture.FrmMain.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Agriculture.Properties.Resources.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Agriculture.Regist.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Agriculture.Regist2.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Agriculture.Select.resources
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.GenerateResource.cache
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CoreCompileInputs.cache
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CopyComplete
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Agriculture.exe
+C:\Users\胡欣博\Desktop\2020物联网工程实训\第四天\Smarthome\Smarthome\Agriculture\obj\Debug\Agriculture.pdb
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\add.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\delete.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\lightning.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\pencil.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\drive_add.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\drive_delete.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\zoom.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\lightning_delete.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\lightning_go.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\accept.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\cancel.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\connect.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\intelligentize.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\off.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\on.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\5.gif
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\内通风.gif
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\水帘.gif
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\喷灌.gif
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\外通风.gif
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\内遮阳关.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\内遮阳开.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\天窗关.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\天窗开.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\外遮阳关.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\外遮阳开.png
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\AipSdk.dll
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.dll
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\AipSdk.xml
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.xml
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\BaiduAI.Form1.resources
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.GenerateResource.cache
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CoreCompileInputs.cache
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CopyComplete
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\smarthome.exe.config
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\smarthome.exe
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\bin\Debug\smarthome.pdb
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\smarthome.exe
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\smarthome.pdb
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.Properties.Resources.resources
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.ForgetPwd.resources
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.ForgetPwd2.resources
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.Form2.resources
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.FormLogin.resources
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.FrmMain.resources
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.Regist.resources
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.Regist2.resources
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.Select.resources
+C:\Users\胡欣博\Desktop\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.csprojAssemblyReference.cache
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\add.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\delete.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\lightning.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\pencil.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\drive_add.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\drive_delete.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\zoom.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\lightning_delete.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\lightning_go.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\accept.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\cancel.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\connect.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\intelligentize.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\off.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\on.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\5.gif
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\内通风.gif
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\水帘.gif
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\喷灌.gif
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\外通风.gif
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\内遮阳关.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\内遮阳开.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\天窗关.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\天窗开.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\外遮阳关.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Resources\外遮阳开.png
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\smarthome.exe.config
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\smarthome.exe
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\smarthome.pdb
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\AipSdk.dll
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.dll
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\AipSdk.xml
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.xml
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.csprojAssemblyReference.cache
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.ForgetPwd.resources
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.ForgetPwd2.resources
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\BaiduAI.Form1.resources
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.Form2.resources
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.FormLogin.resources
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.FrmMain.resources
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.Properties.Resources.resources
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.Regist.resources
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.Regist2.resources
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.Select.resources
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.GenerateResource.cache
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CoreCompileInputs.cache
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CopyComplete
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\smarthome.exe
+C:\Users\胡欣博\Desktop\.net课设\171360230 胡欣博\Smarthome\Smarthome\Agriculture\obj\Debug\smarthome.pdb
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\add.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\delete.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\lightning.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\pencil.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\drive_add.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\drive_delete.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\zoom.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\lightning_delete.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\lightning_go.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\accept.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\cancel.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\connect.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\intelligentize.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\off.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\on.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\5.gif
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\内通风.gif
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\水帘.gif
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\喷灌.gif
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\外通风.gif
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\内遮阳关.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\内遮阳开.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\天窗关.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\天窗开.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\外遮阳关.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Resources\外遮阳开.png
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\smarthome.exe.config
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\smarthome.exe
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\smarthome.pdb
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\AipSdk.dll
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.dll
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\AipSdk.xml
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.xml
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.csprojAssemblyReference.cache
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.ForgetPwd.resources
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.ForgetPwd2.resources
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\BaiduAI.Form1.resources
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.Form2.resources
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.FormLogin.resources
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.FrmMain.resources
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.Properties.Resources.resources
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.Regist.resources
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.Regist2.resources
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.Select.resources
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.GenerateResource.cache
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CoreCompileInputs.cache
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CopyComplete
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\smarthome.exe
+C:\Users\胡欣博\Desktop\.NET应用开发\.net课设\171360230 胡欣博\智能家居\Smarthome\Agriculture\obj\Debug\smarthome.pdb
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\add.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\delete.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\lightning.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\pencil.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\drive_add.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\drive_delete.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\zoom.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\lightning_delete.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\lightning_go.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\accept.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\cancel.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\connect.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\intelligentize.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\off.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\on.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\5.gif
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\内通风.gif
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\水帘.gif
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\喷灌.gif
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\外通风.gif
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\内遮阳关.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\内遮阳开.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\天窗关.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\天窗开.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\外遮阳关.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Resources\外遮阳开.png
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\smarthome.exe.config
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\smarthome.exe
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\smarthome.pdb
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\AipSdk.dll
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.dll
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\AipSdk.xml
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\bin\Debug\Newtonsoft.Json.xml
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.csprojAssemblyReference.cache
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.ForgetPwd.resources
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.ForgetPwd2.resources
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\BaiduAI.Form1.resources
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.Form2.resources
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.FormLogin.resources
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.FrmMain.resources
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.Properties.Resources.resources
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.Regist.resources
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.Regist2.resources
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.Select.resources
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.GenerateResource.cache
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CoreCompileInputs.cache
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\Smarthome.csproj.CopyComplete
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\smarthome.exe
+C:\Users\胡欣博\Desktop\智能家居\智能家居\Smarthome\Agriculture\obj\Debug\smarthome.pdb

@@ -1,0 +1,2 @@
+11:17:08.1917192 >ERROR> Form1.image > 无法访问已释放的对象。
+对象名:“TextBox”。,System.Windows.Forms
